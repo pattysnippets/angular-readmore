@@ -12,5 +12,5 @@ Angular Read More Directive
 </ul>
 
 <h4>Markup</h4>
-<pre>&lt;p read-more>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet ultrices urna. Donec sagittis euismod diam eget luctus. Aenean imperdiet justo sed dui vehicula porttitor. Nulla commodo elementum malesuada. Mauris lacinia pharetra mi, id ornare lacus venenatis non.&lt;/p></pre>
+<pre style="word-wrap: break-word;">&lt;p read-more>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet ultrices urna. Donec sagittis euismod diam eget luctus. Aenean imperdiet justo sed dui vehicula porttitor. Nulla commodo elementum malesuada. Mauris lacinia pharetra mi, id ornare lacus venenatis non.&lt;/p></pre>
 <pre>&lt;p read-more content="{{scope.description}}">&lt;/p></pre>
