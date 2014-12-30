@@ -13,7 +13,7 @@ Angular Read More Directive
 
 <h4>Markup</h4>
 <div class="highlight highlight-javascript">
-<pre>&lt;p read-more>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+<pre>&lt;p <span class="attribute">read-more</span>>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Maecenas sit amet ultrices urna. Donec sagittis euismod diam eget luctus. 
 Aenean imperdiet justo sed dui vehicula porttitor. 
 Nulla commodo elementum malesuada. 
