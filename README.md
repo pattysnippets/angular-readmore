@@ -12,9 +12,9 @@ Simple and easy-to-implement angular read more directive.
  
 
 #### Markup  
-    <p **read-more**>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet ultrices urna. Donec sagittis euismod diam eget luctus. Aenean imperdiet justo sed dui vehicula porttitor. Nulla commodo elementum malesuada. Mauris lacinia pharetra mi, id ornare lacus venenatis non.</p>
+    <p read-more>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet ultrices urna. Donec sagittis euismod diam eget luctus. Aenean imperdiet justo sed dui vehicula porttitor. Nulla commodo elementum malesuada. Mauris lacinia pharetra mi, id ornare lacus venenatis non.</p>
 
 or
 
 
-    <p **read-more** **content="{{~~scope~~}}"**></p>
+    <p read-more content="{{scope}}"></p>
