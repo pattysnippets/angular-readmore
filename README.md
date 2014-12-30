@@ -12,5 +12,5 @@ Simple and easy-to-implement angular read more directive.
  
 
 #### Markup  
-    &lt;p <span class="attribute">read-more</span>>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet ultrices urna. Donec sagittis euismod diam eget luctus. Aenean imperdiet justo sed dui vehicula porttitor. Nulla commodo elementum malesuada. Mauris lacinia pharetra mi, id ornare lacus venenatis non.&lt;/p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet ultrices urna. Donec sagittis euismod diam eget luctus. Aenean imperdiet justo sed dui vehicula porttitor. Nulla commodo elementum malesuada. Mauris lacinia pharetra mi, id ornare lacus venenatis non.</p>
 
